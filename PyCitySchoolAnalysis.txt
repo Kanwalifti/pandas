@@ -1,0 +1,19 @@
+##PyCitySchool Analysis Report:
+
+This Analysis is between District Schools vs Charter School. The dataset has different parameters, based on which we can draw analysis.
+
+Per School Summary, the first summerize part reflects that the Charter Schools have less Budget and less number of students than District Schools.
+Apart from less budgets assigned to Charter Schools, overall passing rate is higher. Ths indicates that having less number of students in Charter school, may have more time to focus on each and individual student.
+
+District Schools have much higher fundings or Budgets with higher number of students. This results into lesser passing rate. The passingrate is between 50%-60%.
+
+Similarly, Math scores are higher for Charter Schools for 9th to 12th grades than of District Schools.
+
+Having completely different budgeting for District and Charter Schools, Per Student Budget is same as District for Charter school. It means that even with the less amount of budgeting for Charter Schools, they are still spending same amount on each individual than District Schools.
+
+Mostly Charter Schools are catagorized as  Medium Size Schools per school spending.
+
+This Data in general interprets that Charter Schools have better quality of education as compare to District Schools. They have less number of students, so they have better focus on each students learning cycle. 
+whereas, District schools get alot budgets/funding but due to the number of students or may be other reasons not mentioned in the dataset, there is less quality of education. 
+
+
